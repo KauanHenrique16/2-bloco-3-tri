@@ -22,7 +22,7 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Os países mais ricos do mundo',
+            text: 'Os 10 países mais ricos do mundo',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
