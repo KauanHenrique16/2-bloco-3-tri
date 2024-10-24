@@ -11,7 +11,7 @@ async function vizualizarInformacoesGlobais() {
 
     const paragrafo = document.createElement('p')
     paragrafo.classList.add('graficos-container__texto')
-    paragrafo.innerHTML = `segundo o tio google chegamos a conclusão que o Estados Unidos e o pais mais rico do mundo,chegando a ter 15495389000 bilhões d dólares`
+    paragrafo.innerHTML = `Segundo o tio google chegamos a conclusão que o Estados Unidos e o pais mais rico do mundo, chegando a ter 15495389000 bilhões de dólares`
 
     const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo)
