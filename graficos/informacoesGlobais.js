@@ -11,7 +11,7 @@ async function vizualizarInformacoesGlobais() {
 
     const paragrafo = document.createElement('p')
     paragrafo.classList.add('graficos-container__texto')
-    paragrafo.innerHTML = `Segundo o tio google chegamos a conclusão que o Estados Unidos e o pais mais rico do mundo, chegando a ter 15495389000 bilhões de dólares`
+    paragrafo.innerHTML = `Segundo o site www.dgmu.ru chega-se a conclusão de que os Estados Unidos é o país mais rico do mundo, chegando a ter 15,5 bilhões de dólares, Já o pais mais pobre é a índia que tem cerca de 2,012760000 de dólares.`
 
     const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo)
