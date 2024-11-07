@@ -33,7 +33,7 @@ async function quantidadeUsuariosPorRede() {
         xaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'países',
+                text: 'Pilotos',
                 font: {
                     color: getCSS('--secondary-color')
                 }
