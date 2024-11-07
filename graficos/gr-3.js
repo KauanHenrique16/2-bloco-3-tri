@@ -22,7 +22,7 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Os 10 países mais ricos do mundo',
+            text: 'Ranking pilotos da formula1 com maior pontuação',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
