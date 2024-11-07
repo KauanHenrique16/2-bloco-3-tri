@@ -42,7 +42,7 @@ async function quantidadeUsuariosPorRede() {
         yaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'valor de dólares ',
+                text: 'Pontos ',
                 font: {
                     color: getCSS('--secondary-color')
                 }
