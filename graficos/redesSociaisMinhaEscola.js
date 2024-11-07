@@ -20,7 +20,7 @@ function processarDados(dados) {
         acc[redesSociais] = (acc[redesSociais] || 0) + 1
         return acc
     }, {})
-    const valores = ['37.79%','36.16%','11.02%','5.20%','4.25%','2.65%','1.36%','0.67%','0.46%','0.44%']
+    const valores = ['3779%','3616%','1102%','520%','425%','265%','136%','067%','046%','044%']
     const labels = ['alimentação','Transporte Rodoviário','Atividades recriativas de cultura','Serviços auxiliares de transportes','Alojamento','locação de bens móveis','Agências e organizadores de viajens','Transportes ferroviários e metroviários','Transporte aéreo','Transporte aquaviário']
 
     const data = [
